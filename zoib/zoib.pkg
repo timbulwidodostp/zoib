@@ -1,4 +1,10 @@
-D 'DEA': Data envelopment analysis
+D 'zoib': Fitting (fit) a zero one inflated beta distribution by maximum likelihood Use zoib With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F oib_lf.ado
+F zib_lf.ado
+F zoib.ado
+F zoib.hlp
+F zoib_beta_lf.ado
+F zoib_lf.ado
+F zoib_p.ado
+F zoib_postestimation.hlp
